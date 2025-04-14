@@ -11,4 +11,3 @@
 ## 👩🏻‍💻 Languages 
 - SQL, Python, PowerBI, Excel
 
-  
