@@ -13,4 +13,4 @@
 
 ##
 If you're looking for a data analyst with a knack for translating numbers into value, let’s connect! 
-Reach me on LinkedIn(www.linkedin.com/in/punamgodugula) or via Email(punam.godugula3@gmail.comm)
+Reach me on ![LinkedIn](www.linkedin.com/in/punamgodugula) or via ![Email](punam.godugula3@gmail.comm)
