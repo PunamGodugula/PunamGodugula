@@ -1,4 +1,4 @@
-## Hi, I’m Punam Godugula, Data Analyst
+## Hi, I’m ✨ Punam Godugula, Data Analyst
 
 📊 Passionate about transforming raw data into actionable insights.
 
@@ -8,18 +8,7 @@
 
 💬 Feel free to ask me about Data Analysis or My Journey.
 
+## 👩🏻‍💻 Languages 
+- SQL, Python, PowerBI, Excel
 
-<!--
-**PunamGodugula/PunamGodugula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
