@@ -1,4 +1,4 @@
-## Hi, I’m ✨ Punam Godugula, Data Analyst
+## Hi, I’m Punam Godugula, Data Analyst
 
 📊 Passionate about transforming raw data into actionable insights.
 
